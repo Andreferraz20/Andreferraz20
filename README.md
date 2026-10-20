@@ -17,7 +17,7 @@ Integrações de pagamento, mensageria e IA generativa. Rio de Janeiro, RJ 🇧�
 
 ### 🚀 Sobre mim
 
-- 🔭 Trabalho principalmente com **APIs REST e microsserviços** em Node.js, TypeScript e NestJS (e um pouco de Java/Spring Boot).
+- 🔭 Trabalho principalmente com **APIs REST e microsserviços** em Node.js, TypeScript e NestJS, com boa experiência também em Java e Spring Boot.
 - 💳 Já centralizei o tratamento de **webhooks de pagamento** (Vindi, Stripe) em serviços únicos, com processamento assíncrono.
 - 📨 Gosto de **mensageria e eventos**: Google Pub/Sub, AWS SQS, resolvendo problemas de concorrência e consistência entre serviços.
 - 🤖 Construo soluções com **IA generativa**: assistentes conversacionais com a API do Claude e agentes em TypeScript para apoiar code review.
